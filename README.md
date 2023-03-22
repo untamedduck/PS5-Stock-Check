@@ -5,4 +5,4 @@ smtplib
 urllib
 BeautifulSoup
 
-#Currently BROKEN due to Googles Updated security meassures for email access. NO plans to update as of now because it already helped me get my PS5. Feel free to fork it and update it though if you would like
+##Currently BROKEN due to Googles Updated security meassures for email access. NO plans to update as of now because it already helped me get my PS5. Feel free to fork it and update it though if you would like
